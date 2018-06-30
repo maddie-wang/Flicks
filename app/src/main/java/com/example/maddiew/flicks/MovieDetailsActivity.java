@@ -16,6 +16,7 @@ import butterknife.ButterKnife;
 public class MovieDetailsActivity extends AppCompatActivity {
 
     Movie movie; // movie to display
+
     @BindView(R.id.tvTitle) TextView tvTitle;
     @BindView(R.id.tvOverview) TextView tvOverview;
     @BindView(R.id.rbVoteAverage) RatingBar rbVoteAverage;
