@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 * [X] Improved the user interface by experimenting with styling and coloring.
 * [X] Apply rounded corners for the poster or background images using [Glide transformations](https://guides.codepath.com/android/Displaying-Images-with-the-Glide-Library#transformations)
 * [X] Apply the popular [Butterknife annotation library](http://guides.codepath.com/android/Reducing-View-Boilerplate-with-Butterknife) to reduce boilerplate code.
-* [X--partially!--] Allow video trailers to be played in full-screen using the YouTubePlayerView from the details screen.
+* [X] (partially) Allow video trailers to be played in full-screen using the YouTubePlayerView from the details screen.
 
 The following **additional** features are implemented:
 
